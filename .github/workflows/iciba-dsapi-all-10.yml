@@ -1,0 +1,54 @@
+# iciba-dsapi-all-0.5.1.yml
+# github.com/shenjuexiao
+# 20261115
+
+# .github/workflows/iciba-dsapi-all.yml
+name: iciba-dsapi-all
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Pull latest changes with rebase
+        run: git pull --rebase
+
+      - name: Run iciba-dsapi-all script
+        run: python iciba-dsapi-all.py
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit generated archives
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update iciba daily sentence archives"
+          fi
+
+      - name: Push changes
+        run: git push

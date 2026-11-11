@@ -1,0 +1,25 @@
+# iciba-dsapi_config.yml
+# github.com/shenjuexiao
+# 20261111
+
+# _config.yml
+title: 词霸每日一句
+description: 📱 词霸每日一句，收集时间段 2018-01-01 ~ 当前日期（UTC +8）。
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  - README-dsapi-2026.md
+
+# 排除的文件和目录（不参与 Jekyll 构建）
+exclude:
+  - dsapi-json-2026.json
+  - dsapi-fenxiang-2026/
+  - dsapi-json-2026/
+  - dsapi-picture-2026/
+  - dsapi-picture2-2026/
+  - dsapi-picture3-2026/
+  - dsapi-picture4-2026/
+  - dsapi-tts-2026/
+ 
