@@ -34,7 +34,7 @@ jobs:
         run: git pull --rebase
 
       - name: Run iciba-dsapi-all script
-        run: python iciba-dsapi-all.py
+        run: python iciba-dsapi-all-10.py
 
       - name: Configure git identity
         run: |
