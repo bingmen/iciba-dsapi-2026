@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-12 09:27:55 UTC+8
+> 最后更新: 2026-11-13 18:46:18 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -320,3 +320,4 @@
 | 6135 | 2026-11-10 | Frost paints the sleeping land with patient silver. | 霜耐心地给沉睡的大地刷上银色。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/620aec0cc602e0d458c03a3ffd21403f.mp3) | [![2026-11-10](https://staticedu-wps-cache.iciba.com/image/a18092fda13f479d91b176175553e103.png)](https://staticedu-wps-cache.iciba.com/image/a18092fda13f479d91b176175553e103.png) |
 | 6136 | 2026-11-11 | The best thing to buy today is a little time for yourself. | 今天最值得买下的，是给自己的一点时间。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e356fa2ca0889217afec55cb4e4f46e2.mp3) | [![2026-11-11](https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png)](https://staticedu-wps-cache.iciba.com/image/a04119253b01a179ff8634cc0a1c449e.png) |
 | 6137 | 2026-11-12 | A hot drink in cold hands holds the morning still. | 冷手里捧一杯热饮，清晨就静止了。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/a36934c4605b577c4ad7d607815ce6fe.mp3) | [![2026-11-12](https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png)](https://staticedu-wps-cache.iciba.com/image/28e48413a6c39033b4aa338e95f280f2.png) |
+| 6138 | 2026-11-13 | Trees sleep deeply and dream of green again. | 树沉睡着，梦见重回绿色。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3) | [![2026-11-13](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png)](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png) |
