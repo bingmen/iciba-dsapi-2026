@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-15 18:37:02 UTC+8
+> 最后更新: 2026-11-16 18:53:34 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -323,3 +323,4 @@
 | 6138 | 2026-11-13 | Trees sleep deeply and dream of green again. | 树沉睡着，梦见重回绿色。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/8879cc3ac33885510bbd0a6115ce3861.mp3) | [![2026-11-13](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png)](https://staticedu-wps-cache.iciba.com/image/fe2c732c536fb5cfe532bff18d5a1e9a.png) |
 | 6139 | 2026-11-14 | From sadness comes joy, as dead flowers bring blooms. | 悲伤生喜悦，如枯花绽新蕾。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/7673154558c9e4f88908b9fa6681949b.mp3) | [![2026-11-14](https://staticedu-wps-cache.iciba.com/image/c1281d4cc36b484e4a76e0c1f2b20257.png)](https://staticedu-wps-cache.iciba.com/image/c1281d4cc36b484e4a76e0c1f2b20257.png) |
 | 6140 | 2026-11-15 | The night is long, but so is our list of small joys. | 夜虽长，小欢喜也一样的多。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/bf5fcc689dccf454fadd34cd38a9db16.mp3) | [![2026-11-15](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png)](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png) |
+| 6141 | 2026-11-16 | A short walk can untangle a long worry. | 一次短途散步，能解开一长串烦恼。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e4ea9c6ed53dbb8ecbfd8283b62d6aab.mp3) | [![2026-11-16](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png)](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png) |
