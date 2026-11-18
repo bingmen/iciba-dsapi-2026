@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-17 19:38:35 UTC+8
+> 最后更新: 2026-11-18 19:25:37 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -325,3 +325,4 @@
 | 6140 | 2026-11-15 | The night is long, but so is our list of small joys. | 夜虽长，小欢喜也一样的多。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/bf5fcc689dccf454fadd34cd38a9db16.mp3) | [![2026-11-15](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png)](https://staticedu-wps-cache.iciba.com/image/85d5a6aed7afcf269785de262d89c108.png) |
 | 6141 | 2026-11-16 | A short walk can untangle a long worry. | 一次短途散步，能解开一长串烦恼。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e4ea9c6ed53dbb8ecbfd8283b62d6aab.mp3) | [![2026-11-16](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png)](https://staticedu-wps-cache.iciba.com/image/26e18112cfc235d986a689a40ffdd3ac.png) |
 | 6142 | 2026-11-17 | The north wind sorts the leaves from the strong branches. | 北风把落叶和坚强的枝干分开。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/88986db574031831fd4b57c843f2f535.mp3) | [![2026-11-17](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png)](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png) |
+| 6143 | 2026-11-18 | Keep a warm pocket and a warmer heart. | 口袋要暖，心要更暖。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/5e58de17cc5507617151592c5a93977d.mp3) | [![2026-11-18](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png) |
