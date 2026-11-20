@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-19 19:23:43 UTC+8
+> 最后更新: 2026-11-20 19:13:08 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -327,3 +327,4 @@
 | 6142 | 2026-11-17 | The north wind sorts the leaves from the strong branches. | 北风把落叶和坚强的枝干分开。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/88986db574031831fd4b57c843f2f535.mp3) | [![2026-11-17](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png)](https://staticedu-wps-cache.iciba.com/image/09d80f0bf8405b90f1f0e9c27bf13694.png) |
 | 6143 | 2026-11-18 | Keep a warm pocket and a warmer heart. | 口袋要暖，心要更暖。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/5e58de17cc5507617151592c5a93977d.mp3) | [![2026-11-18](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png)](https://staticedu-wps-cache.iciba.com/image/b754c1b4b2a1e94241f8405b7078c302.png) |
 | 6144 | 2026-11-19 | Some doors only open for those who knock again. | 有些门，只肯为再次敲响的人打开。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/160ea93f65ee2f05782671179b869fb7.mp3) | [![2026-11-19](https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png)](https://staticedu-wps-cache.iciba.com/image/5693aefb7e5fe08029c2ad906a872e9a.png) |
+| 6145 | 2026-11-20 | Even the longest night ends with a sunrise. | 再长的夜，也会以日出收尾。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/c8543d0c008f8cc98ec59c2ca9288d94.mp3) | [![2026-11-20](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png)](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png) |
