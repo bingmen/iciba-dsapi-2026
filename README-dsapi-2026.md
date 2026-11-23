@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-22 18:58:16 UTC+8
+> 最后更新: 2026-11-23 20:06:07 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -330,3 +330,4 @@
 | 6145 | 2026-11-20 | Even the longest night ends with a sunrise. | 再长的夜，也会以日出收尾。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/c8543d0c008f8cc98ec59c2ca9288d94.mp3) | [![2026-11-20](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png)](https://staticedu-wps-cache.iciba.com/image/76ac06ef46e2457c8715b7d5ce9f0d05.png) |
 | 6146 | 2026-11-21 | Gratitude turns what we have into enough. | 感恩让我们拥有的变成足够。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/3b85dec0de51481e94e84cb7dbd41757.mp3) | [![2026-11-21](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png)](https://staticedu-wps-cache.iciba.com/image/9a59b5c92efcde47d47a09fde8427dbd.png) |
 | 6147 | 2026-11-22 | Light snow whispers that the year is folding up. | 小雪轻声说，一年正在合上书页。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e8d4dd8af1ca3e767907639e7328fa4f.mp3) | [![2026-11-22](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png)](https://staticedu-wps-cache.iciba.com/image/24826ca756dfb2c8e2f3b8544798010b.png) |
+| 6148 | 2026-11-23 | A pot of soup warms more than the body. | 一锅热汤，暖的不只是身体。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/a8e75a692d19c7f5a3002f714f65d70d.mp3) | [![2026-11-23](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png)](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png) |
