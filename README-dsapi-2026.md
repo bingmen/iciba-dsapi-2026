@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-25 20:28:03 UTC+8
+> 最后更新: 2026-11-26 20:08:53 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -333,3 +333,4 @@
 | 6148 | 2026-11-23 | A pot of soup warms more than the body. | 一锅热汤，暖的不只是身体。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/a8e75a692d19c7f5a3002f714f65d70d.mp3) | [![2026-11-23](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png)](https://staticedu-wps-cache.iciba.com/image/8756df7d29d39e15a642a16d1963ccbc.png) |
 | 6149 | 2026-11-24 | Your voice deserves the same kindness you give. | 你的声音，也值得你给出的那份善意。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e6737bf2af1938b13b1eb0966d08a5c1.mp3) | [![2026-11-24](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png) |
 | 6150 | 2026-11-25 | It does not do to dwell on dreams and forget to live. | 沉溺于梦想而忘记生活，是不行的。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/dcbcf4d61582bfbe8b9617350c71a688.mp3) | [![2026-11-25](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png) |
+| 6151 | 2026-11-26 | Grateful hearts never run out of season. | 感恩的心，从不过季。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/62d608a8ba86995f18ab4e98fcd3dd33.mp3) | [![2026-11-26](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png)](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png) |
