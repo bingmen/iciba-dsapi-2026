@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-26 20:08:53 UTC+8
+> 最后更新: 2026-11-27 19:57:15 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -334,3 +334,4 @@
 | 6149 | 2026-11-24 | Your voice deserves the same kindness you give. | 你的声音，也值得你给出的那份善意。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/e6737bf2af1938b13b1eb0966d08a5c1.mp3) | [![2026-11-24](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png)](https://staticedu-wps-cache.iciba.com/image/43e89b40608f1efb79d75c046dffdd94.png) |
 | 6150 | 2026-11-25 | It does not do to dwell on dreams and forget to live. | 沉溺于梦想而忘记生活，是不行的。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/dcbcf4d61582bfbe8b9617350c71a688.mp3) | [![2026-11-25](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png) |
 | 6151 | 2026-11-26 | Grateful hearts never run out of season. | 感恩的心，从不过季。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/62d608a8ba86995f18ab4e98fcd3dd33.mp3) | [![2026-11-26](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png)](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png) |
+| 6152 | 2026-11-27 | The winter sun pours gold on every bare branch. | 冬日的阳光，给每根秃枝都镀上金色。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/bc4e1477146227f5a0455acdfaa9abe0.mp3) | [![2026-11-27](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png)](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png) |
