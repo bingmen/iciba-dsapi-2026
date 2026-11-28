@@ -1,6 +1,6 @@
 # 词霸每日一句 - 2026
 
-> 最后更新: 2026-11-27 19:57:15 UTC+8
+> 最后更新: 2026-11-28 19:32:01 UTC+8
 
 | 编号 | 日期 | 每日一句 | 中文释义 | 中文解读 | 朗读 | 分享图 |
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
@@ -335,3 +335,4 @@
 | 6150 | 2026-11-25 | It does not do to dwell on dreams and forget to live. | 沉溺于梦想而忘记生活，是不行的。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/dcbcf4d61582bfbe8b9617350c71a688.mp3) | [![2026-11-25](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png)](https://staticedu-wps-cache.iciba.com/image/c7752dc5fa525d77f261630d158b98ee.png) |
 | 6151 | 2026-11-26 | Grateful hearts never run out of season. | 感恩的心，从不过季。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/62d608a8ba86995f18ab4e98fcd3dd33.mp3) | [![2026-11-26](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png)](https://staticedu-wps-cache.iciba.com/image/c35e455649ff1f1b0427819e7b14fb3f.png) |
 | 6152 | 2026-11-27 | The winter sun pours gold on every bare branch. | 冬日的阳光，给每根秃枝都镀上金色。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/bc4e1477146227f5a0455acdfaa9abe0.mp3) | [![2026-11-27](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png)](https://staticedu-wps-cache.iciba.com/image/b51ee06df209d42849add22fe2e354fe.png) |
+| 6153 | 2026-11-28 | There is beauty in letting go. | 在放下之中亦有美感。 | 新版每日一句 | [TTS](https://staticedu-wps-cache.iciba.com/audio/301339290556a4d2082ce0a8c021f579.mp3) | [![2026-11-28](https://staticedu-wps-cache.iciba.com/image/8f826fe4889239c224417136d408aecd.png)](https://staticedu-wps-cache.iciba.com/image/8f826fe4889239c224417136d408aecd.png) |
